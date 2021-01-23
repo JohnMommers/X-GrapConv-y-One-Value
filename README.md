@@ -1,4 +1,4 @@
-# X-GrapConv-y-One-Value
+# X-GraphConv-y-One-Value
 Template for X=GraphConv and y=one value
 
 X = GraphConv created from SMILES
